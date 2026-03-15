@@ -1,0 +1,35 @@
+/* Icons */
+
+.icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 18px;
+  height: 18px;
+}
+
+.clock-icon {
+  width: 16px;
+  height: 16px;
+}
+
+.price-icon {
+  width: 11px;
+  height: 18px;
+}
+
+/* Images */
+
+.underline {
+  height: 1px;
+  width: 100%;
+  background-color: var(--blue-800);
+}
+
+.creator-image {
+  width: 33px;
+  height: 33px;
+}
+
+/* Text */
+

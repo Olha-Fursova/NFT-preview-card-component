@@ -11,7 +11,9 @@ h4,
 h5,
 h6,
 p,
-body {
+body,
+figure,
+svg {
   margin: 0;
   padding: 0;
 }
@@ -22,7 +24,8 @@ a {
   cursor: pointer;
 }
 
-img {
+img,
+figure {
   display: block;
   max-width: 100%;
   height: auto;
