@@ -34,3 +34,38 @@
 }
 
 /* Text */
+
+.main-heading {
+  font-size: 22px;
+  line-height: 125%;
+  letter-spacing: 0;
+  font-weight: 600;
+  color: var(--white);
+}
+
+.descreption {
+  font-size: 18px;
+  line-height: 145%;
+  letter-spacing: 0;
+  font-weight: 300;
+}
+
+.price-text {
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0;
+  font-weight: 700;
+  color: var(--cyan);
+}
+
+.time-text,
+.creator-name {
+  font-size: 16px;
+  line-height: 125%;
+  letter-spacing: 0;
+  font-weight: 400;
+}
+
+.highlight-name {
+  color: var(--white);
+}
