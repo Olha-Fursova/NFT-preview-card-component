@@ -11,11 +11,13 @@
 .clock-icon {
   width: 16px;
   height: 16px;
+  fill: var(--blue-500);
 }
 
 .price-icon {
   width: 11px;
   height: 18px;
+  fill: var(--cyan);
 }
 
 /* Images */
@@ -32,4 +34,3 @@
 }
 
 /* Text */
-
